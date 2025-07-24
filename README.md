@@ -41,7 +41,8 @@ O projeto é organizado em duas partes principais: o firmware para o ESP32 e o s
 
 
 
-### Arquivo `tof_log.csv` (Cartão SD / Simulação)
+### Parte do Simulador 
+É gerado um arquivo `tof_log.csv` (Cartão SD / Simulação).
 As medições de distância consideradas válidas (status 5 ou 9) são salvas em formato CSV.
 
 **Formato:** `timestamp_ms,zone_id,distance_mm,status`

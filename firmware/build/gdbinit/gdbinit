@@ -1,0 +1,2 @@
+source /home/julio-cesar/esp/v5.4.2/task_rtos/build/gdbinit/symbols
+source /home/julio-cesar/esp/v5.4.2/task_rtos/build/gdbinit/connect
